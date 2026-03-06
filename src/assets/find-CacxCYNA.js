@@ -1,0 +1,1 @@
+import{bx as t}from"./index-BZdtNszq.js";const i={changeXcx:s=>t.post("/changeXcx",s),myQuanList:s=>t.post("/myQuanList",s),pushDy:s=>t.post("/pushDy",s),hudongList:s=>t.post("/hudongList",s),delHd:s=>t.post("/delHd",s),signLogList:s=>t.post("/signLogList",s),signInfo:s=>t.post("/signInfo",s),sign:s=>t.post("/sign",s),urlList:s=>t.post("/urlList",s)};export{i as a};
